@@ -1,4 +1,4 @@
-## Testing SSH keys
+# Testing SSH keys
 
-# Personal Account
+## Personal Account
 This text was write with the personal account
